@@ -1,4 +1,8 @@
-# FCM Push Notifications - Lab 6
+# Lab 6 - FCM Push Notifications
+
+## Objective
+
+The goal of this lab was to implement push notifications in a Flutter app using Firebase Cloud Messaging (FCM) and Flutter local notifications, and to test how notifications behave when the app is in the foreground, background, or terminated state.
 
 A Flutter application demonstrating Firebase Cloud Messaging (FCM) push notifications.
 
@@ -19,7 +23,7 @@ A Flutter application demonstrating Firebase Cloud Messaging (FCM) push notifica
 
 ### Prerequisites
 
-- Flutter SDK installed (3.5+)
+- Flutter SDK installed
 - A real Android device (FCM doesn't work reliably on emulators)
 - A Google account for Firebase Console
 - Node.js installed (for FlutterFire CLI)
@@ -137,4 +141,8 @@ lib/
 
 ## Author
 
-NIYONKURU Jean De La Croix — Year 3 CSE, University of Rwanda
+TUMUKUNDE Gentille
+University of Rwanda
+College of Science and Technology
+Computer abd Software Engineering
+Year 3
